@@ -3,7 +3,7 @@ Es sistema permite gestionar clientes,servicios,reportes, ventas  y multiples us
 
 # Sistema de Inventario en C#
 
-Este es un sistema básico para el control de inventario, clientes y proveedores, desarrollado en C# y SQL Server.
+Este es un sistema básico para el control de clientes, servicios y ventas, desarrollado en C# y SQL Server.
 
 ## Características
 - Gestión de productos
