@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive\Documents\IPPF\Informatica\Desarrollo de Aplicaciones\RA #3\Crud-Maestro-Detalle\Proyecto\SOL_GestionGuarderia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\PC\OneDrive\Documents\IPPF\Informatica\Desarrollo de Aplicaciones\RA #3\Crud-Maestro-Detalle\Proyecto\SOL_GestionGuarderia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\PC\OneDrive\Documents\IPPF\Informatica\Desarrollo de Aplicaciones\RA #3\Crud-Maestro-Detalle\Proyecto\SOL_GestionGuarderia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\IPPF\Informatica\Desarrollo de Aplicaciones\RA #3\Crud-Maestro-Detalle\Proyecto\SOL_GestionGuarderia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\IPPF\Informatica\Desarrollo de Aplicaciones\RA #3\Crud-Maestro-Detalle\Proyecto\SOL_GestionGuarderia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\PC\OneDrive\Documents\IPPF\Informatica\Desarrollo de Aplicaciones\RA #3\Crud-Maestro-Detalle\Proyecto\SOL_GestionGuarderia\CapaDatos\obj\Debug\CapaDatos.pdb
