@@ -27,5 +27,16 @@ Este es un sistema básico para el control de inventario, clientes y proveedores
 Bourdon Badelyn
 
 ## Imagenes 
-![Pantalla principal del sistema]<img width="414" alt="login1" src="https://github.com/user-attachments/assets/13ceb5a7-f9b8-4692-b6a2-600157cce5cc" />
+![Pantalla Del Login]
+<img width="414" alt="login1" src="https://github.com/user-attachments/assets/13ceb5a7-f9b8-4692-b6a2-600157cce5cc" />
+
+![Pantalla Principal Del Sistema]
+
+<img width="947" alt="principal" src="https://github.com/user-attachments/assets/fc51d9a4-ab94-41de-b2e2-eccc80a7d655" />
+
+
+![Pantalla De Gestion Clientes]
+
+<img width="952" alt="clientes" src="https://github.com/user-attachments/assets/3c8ea53c-213f-4bba-894e-d5075fa85c57" />
+
 
